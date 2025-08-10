@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Balaguru588/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Balaguru588/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Balaguru588/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Balaguru588/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Balaguru588/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Balaguru588/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Balaguru588/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Balaguru588/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
