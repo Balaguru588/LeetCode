@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Balaguru588/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/Balaguru588/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Balaguru588/LeetCode/tree/master/0001-two-sum) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Balaguru588/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
