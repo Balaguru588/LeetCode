@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Balaguru588/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Balaguru588/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balaguru588/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Balaguru588/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## String Matching
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Balaguru588/LeetCode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Balaguru588/LeetCode/tree/master/0168-excel-sheet-column-title) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Balaguru588/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
