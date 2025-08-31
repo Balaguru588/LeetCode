@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Balaguru588/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Balaguru588/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Balaguru588/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balaguru588/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balaguru588/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Balaguru588/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Balaguru588/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Balaguru588/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Balaguru588/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
